@@ -10,3 +10,4 @@ if (isNaN(numero)) {
     }
     alert (resultado)
 }
+index
